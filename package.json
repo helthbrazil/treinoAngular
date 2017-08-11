@@ -1,0 +1,19 @@
+{
+  "name": "treino",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helthbrazil/treinoAngular.git"
+  },
+  "author": "hebert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helthbrazil/treinoAngular/issues"
+  },
+  "homepage": "https://github.com/helthbrazil/treinoAngular#readme"
+}
